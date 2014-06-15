@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1402846578111.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AEB3054B",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "stepsbyintervaldow",
+        "contentUrl" : "content?title=stepsbyintervaldow&file=0adbf8c9470845888d010f6f24fa2ffb.htm",
+        "displayedObservations" : 576,
+        "displayedVariables" : 3,
+        "totalObservations" : 576,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

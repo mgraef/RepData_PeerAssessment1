@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1402845873887.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A8E8BC6D",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "activityNA",
+        "contentUrl" : "content?title=activityNA&file=a8ee7160dd1e46c7a93aa30f552f2d51.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 4,
+        "totalObservations" : 2304,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
