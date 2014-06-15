@@ -1,0 +1,16 @@
+{
+    "contents" : "# Reproducible Research: Peer Assessment 1\n\n\n## Loading and preprocessing the data\n\n\n\n## What is mean total number of steps taken per day?\n\n\n\n## What is the average daily activity pattern?\n\n\n\n## Imputing missing values\n\n\n\n## Are there differences in activity patterns between weekdays and weekends?\n",
+    "created" : 1402837398776.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3845088120",
+    "id" : "939A3125",
+    "lastKnownWriteTime" : 1402837418,
+    "path" : "~/GitHub/RepData_PeerAssessment1/PeerAssessment1.Rmd",
+    "project_path" : "PeerAssessment1.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
